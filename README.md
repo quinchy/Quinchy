@@ -20,11 +20,11 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Front-end:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">HTML, CSS3, TailwindCSS, JavaScript, React.js</td>
+    <td valign="top" style="padding: 0; margin: 0;">HTML, CSS, Tailwind CSS, JavaScript/Typescript, React</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Back-end:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">JavaScript, TypeScript, PHP, Python, C#, Java</td>
+    <td valign="top" style="padding: 0; margin: 0;">JavaScript/Typescript, PHP, Python, C#, Java</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Frameworks:</strong></td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Databases:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">PostgreSQL (Supabase), MySQL (XAMPP), NoSQL (Firebase)</td>
+    <td valign="top" style="padding: 0; margin: 0;">Supabase, MySQL, Firebase</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Deployment:</strong></td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Tools & OS:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Visual Studio Code, Android Studio, Git, Windows, CMD/Powershell, Postman</td>
+    <td valign="top" style="padding: 0; margin: 0;">Cursor, Visual Studio Code, Android Studio, Git/Github, Windows, CMD/Powershell, Postman, Figma</td>
   </tr>
 </table>
 
