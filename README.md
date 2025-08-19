@@ -5,9 +5,9 @@
 <table>
   <tr>
     <td valign="top">
-      <p>• I’m a Full-Stack Software Developer based in the Philippines with experience in web and mobile development.</p>
+      <p>• I’m a Full-Stack Developer with experience in web and mobile development focused on building user-friendly, secure, and scalable applications.</p>
       <p>• I graduated with a degree in Computer Science, Major in Software Development.</p>
-      <p>• I utilize modern technologies such as Next.js, Laravel, React Native, etc. to build scalable and efficient software applications.</p>
+      <p>• I utilize modern technologies in my development such as Next.js, Laravel, React Native, etc. to build scalable and efficient software applications.</p>
     </td>
     <td align="right" valign="top">
       <img src="image/QuinchY.gif" alt="Logo" width="150">
