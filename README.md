@@ -19,19 +19,19 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Front-end:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">HTML, CSS, Tailwind CSS, JavaScript/Typescript, React</td>
+    <td valign="top" style="padding: 0; margin: 0;">HTML, CSS, Tailwind CSS, React, Motion, GSAP</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Back-end:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">JavaScript/Typescript, PHP, Python, C#, Java</td>
+    <td valign="top" style="padding: 0; margin: 0;">Typescript/Javascript, Node JS, Express JS, Redis, PHP, Python, C#, Java</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Frameworks:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Next.js, Laravel, React Native (Expo), FastAPI</td>
+    <td valign="top" style="padding: 0; margin: 0;">Next.js, Laravel, React Native Expo, FastAPI</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Databases:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Supabase, MySQL, Firebase</td>
+    <td valign="top" style="padding: 0; margin: 0;">Supabase, PostgreSQL, MySQL, Firebase, NoSQL</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Deployment:</strong></td>
@@ -39,49 +39,8 @@
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Tools & OS:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Cursor, Visual Studio Code, Android Studio, Git/Github, Windows, CMD/Powershell, Postman, Figma</td>
+    <td valign="top" style="padding: 0; margin: 0;">Zed, Cursor, Visual Studio Code, Android Studio, Git/Github, Windows, CMD/Powershell, Postman, Docker, NPM, Bun, Yarn, Figma</td>
   </tr>
 </table>
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
 <br />
