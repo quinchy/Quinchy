@@ -1,7 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
-
-# Cyril James De Guzman
-
+<img src="image/cover-photo.png" alt="Logo" width="1500">
+<div align="center">
+  <h1>Cyril James De Guzman</h1>
+</div>
 <table>
   <tr>
     <td valign="top">
@@ -13,7 +13,6 @@
     </td>
   </tr>
 </table>
-
 
 # Skills
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
