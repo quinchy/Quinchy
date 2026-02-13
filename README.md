@@ -1,13 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-# Hi 👋, I'm Cyril James De Guzman!
+# Cyril James De Guzman
 
 <table>
   <tr>
     <td valign="top">
-      <p>• I’m a Full-Stack Developer with experience in web and mobile development focused on building user-friendly, secure, and scalable applications.</p>
-      <p>• I graduated with a degree in Computer Science, Major in Software Development.</p>
-      <p>• I utilize modern technologies in my development such as Next.js, Laravel, React Native, etc. to build scalable and efficient software applications.</p>
+      <p>Software Engineer focused on systems design and scalable solutions across the full stack, with a goal of delivering highly performant, and reliable applications.</p>
+      <p>I enjoy solving problems and implementing solutions, while continuously refining my skills and learning different ways to build softwares.</p>
     </td>
     <td align="right" valign="top">
       <img src="image/QuinchY.gif" alt="Logo" width="150">
