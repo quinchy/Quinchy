@@ -1,4 +1,4 @@
-<img src="image/cover-photo.png" alt="Logo" width="1500">
+<img src="image/cover-photo.png" alt="Logo" width="3840" height="1220">
 <div align="center">
   <h1>Cyril James De Guzman</h1>
 </div>
