@@ -6,7 +6,7 @@
   <tr>
     <td valign="top">
       <p>Full Stack Engineer building scalable, reliable AI and SaaS products for businesses across a wide range of industries, with a focus on maintainable systems and intuitive user experiences.</p>
-      <p>My experience includes CRMs, AI creative platforms, web applications, and marketing sites, approaching each project with an AI-first, product-minded mindset that balances business goals, technical feasibility, thoughtful architecture, and efficient execution.</p>
+      <p>My experience includes CRMs, Web Applications, AI Integration, Marketing Sites, etc., approaching each project with an AI-first, product-minded mindset that balances business goals, and technical feasibility.</p>
     </td>
     <td align="right" valign="top">
       <img src="image/QuinchY.gif" alt="Logo" width="150">
