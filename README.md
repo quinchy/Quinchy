@@ -5,8 +5,7 @@
 <table>
   <tr>
     <td valign="top">
-      <p>Software Engineer focused on systems design and scalable solutions across the full stack, with a goal of delivering highly performant, and reliable applications.</p>
-      <p>I enjoy solving problems and implementing solutions, while continuously refining my skills and learning different ways to build softwares.</p>
+      <p>Full Stack Engineer building AI and SaaS products for businesses across different industries. I focus on creating scalable, reliable systems, and providing intuitive user experiences.</p>
     </td>
     <td align="right" valign="top">
       <img src="image/QuinchY.gif" alt="Logo" width="150">
