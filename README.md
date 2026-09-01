@@ -9,7 +9,7 @@
       <p>My experience includes CRMs, Web Applications, AI Integration, Marketing Sites, etc., approaching each project with an AI-first, product-minded mindset that balances business goals, and technical feasibility.</p>
     </td>
     <td align="right" valign="top">
-      <img src="image/QuinchY.gif" alt="Logo" width="150">
+      <img src="image/QuinchY.gif" alt="Logo" width="200">
     </td>
   </tr>
 </table>
