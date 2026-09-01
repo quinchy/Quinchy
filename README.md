@@ -17,28 +17,44 @@
 # Skills
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Languages:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">TypeScript, JavaScript, Python</td>
+  </tr>
+  <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Front-end:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">HTML, CSS, Tailwind CSS, React, Motion, GSAP</td>
+    <td valign="top" style="padding: 0; margin: 0;">React, Next.js, React Router, TanStack, Astro, Tailwind CSS, Zustand, Shadcn UI, Motion, Expo</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Back-end:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Typescript/Javascript, Node JS, Express JS, Redis, PHP, Python, C#, Java</td>
-  </tr>
-  <tr>
-    <td valign="top" style="padding: 0; margin: 0;"><strong>Frameworks:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Next.js, Laravel, React Native Expo, FastAPI</td>
+    <td valign="top" style="padding: 0; margin: 0;">Node.js, NestJS, Fastify, Express, FastAPI, tRPC, BullMQ</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Databases:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Supabase, PostgreSQL, MySQL, Firebase, NoSQL</td>
+    <td valign="top" style="padding: 0; margin: 0;">PostgreSQL, MySQL, NoSQL, Supabase, NeonDB, PlanetScale, Redis, Firebase, Prisma ORM</td>
   </tr>
   <tr>
-    <td valign="top" style="padding: 0; margin: 0;"><strong>Deployment:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Vercel, Render, Heroku</td>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>AI & LLM:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">OpenAI, Gemini, DeepSeek, OpenRouter, FAL AI, KIE AI, Wavespeed, Segmind, Cloudflare Workers AI, ElevenLabs</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>APIs & Integrations:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Stripe, Twilio, Resend</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Testing:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Vitest, Playwright</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>DevOps & Infra:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Docker, Cloudflare, Fly.io, Vercel, GCP, Render, Github Actions, Trigger.dev, Infisical</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Observability & Analytics:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Sentry, LangFuse, Amplitude</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Tools & OS:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Zed, Cursor, Visual Studio Code, Android Studio, Git/Github, Windows, CMD/Powershell, Postman, Docker, NPM, Bun, Yarn, Figma</td>
+    <td valign="top" style="padding: 0; margin: 0;">Zed, Claude, Codex, Git/Github, Postman, Figma, MCP Servers, Linear</td>
   </tr>
 </table>
 
